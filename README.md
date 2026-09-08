@@ -9,7 +9,7 @@ Soal: Ganjil
 
 berikut contoh penjelasan dari codingan saya
 
-Tentu. Berdasarkan kode yang kamu berikan, berikut **penjelasan singkat judul/program** yang bisa kamu gunakan untuk tugas atau presentasi:
+
 
 ### Penjelasan Sistem Peminjaman Buku Perpustakaan Fakultas Teknik
 
